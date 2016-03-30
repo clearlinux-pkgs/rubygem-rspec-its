@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rspec-its
 Version  : 1.2.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/rspec-its-1.2.0.gem
 Source0  : https://rubygems.org/downloads/rspec-its-1.2.0.gem
 Summary  : No detailed summary available
@@ -50,30 +50,23 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/rspec-its-1.2.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-its-1.2.0/ri/RSpec/Its/cdesc-Its.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-its-1.2.0/ri/RSpec/Its/is_expected-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-its-1.2.0/ri/RSpec/Its/its-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-its-1.2.0/ri/RSpec/Its/should-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-its-1.2.0/ri/RSpec/Its/should_not-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-its-1.2.0/ri/RSpec/cdesc-RSpec.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-its-1.2.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/.rspec
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/.travis.yml
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/Changelog.md
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/cucumber.yml
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/features/its.feature
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/features/step_definitions/additional_cli_steps.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/features/support/env.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/lib/rspec/its.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/lib/rspec/its/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/rspec-its.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/script/test_all
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/spec/rspec/its_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-its-1.2.0/spec/spec_helper.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/rspec-its-1.2.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/rspec-its-1.2.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/.rspec
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/.travis.yml
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/Changelog.md
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/cucumber.yml
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/features/its.feature
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/features/step_definitions/additional_cli_steps.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/features/support/env.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/lib/rspec/its.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/lib/rspec/its/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/rspec-its.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/script/test_all
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/spec/rspec/its_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-its-1.2.0/spec/spec_helper.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/rspec-its-1.2.0.gemspec
